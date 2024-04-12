@@ -5,12 +5,13 @@ title: '[리뷰] ReFT: Representation Finetuning for Language Models '
 
 
 
-#
 
+<br>
 *본 논문 리뷰은 CHATGPT로 작성되었으며 추후 자세한 내용은 수정될 예정입니다!!!*
-#
-원 논문 링크 : https://arxiv.org/pdf/2404.03592.pdf
-논문 깃헙 링크 : https://github.com/stanfordnlp/pyreft
+<br>
+
+원 논문 링크 : https://arxiv.org/pdf/2404.03592.pdf<br>
+논문 깃헙 링크 : https://github.com/stanfordnlp/pyreft<br>
 
 ---
 이 논문에서는 대형 언어 모델의 효율적인 파인 튜닝을 위한 새로운 접근법인 ReFT(Representation Finetuning) 방법을 제안합니다. 기존의 파라미터 효율적 파인 튜닝(PEFT) 방법은 소수의 가중치만을 업데이트하는데, 이러한 방법들은 제한적인 학습 용량 때문에 종종 최적의 성능을 발휘하지 못하는 문제가 있습니다.
