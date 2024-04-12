@@ -1,9 +1,9 @@
 ---
 layout: post
-title: [리뷰] ReFT: Representation Finetuning for Language Models 
+title: '[리뷰] ReFT: Representation Finetuning for Language Models '
 ---
 
-# [리뷰] ReFT: Representation Finetuning for Language Models 
+
 
 #
 
